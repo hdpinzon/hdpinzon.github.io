@@ -1,4 +1,5 @@
 (function(){
+    alert("yes");
     var msg = "Location not available";
     $h2 = $('h2');
     if (modernizr.geolocation){
